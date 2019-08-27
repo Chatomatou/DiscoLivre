@@ -1,0 +1,6 @@
+help : Permet de lister toutes les commandes existantes.
+exit : Permet de quittez l'application.
+create author : Permet de crée un auteur.
+display authors : Permet d'afficher les auteurs existants.
+display all contents : Permet d'afficher le contenu des auteurs.
+push artwork <firstname> <lastname> : Permet d'ajouter une oeuvre a un auteur, cette fonction prend deux arguments, le prenom puis le nom de l'auteur.
